@@ -9,10 +9,11 @@ int main() {
     cout << "Enter first number: ";
     cin >> num1;
 
+  
     cout << "Enter second number: ";
     cin >> num2;
 
-    cout << "Choose operation (+, -, *, /): ";
+   cout << "Choose operation (+, -, *, /): ";
     cin >> operation;
 
     if (operation == '+') {
