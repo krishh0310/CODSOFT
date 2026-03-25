@@ -34,7 +34,7 @@ int main() {
 
     } while (guess != secretNumber);
   
-    cout << "================================" << endl;
+    cout << "--------------" << endl;
 
     return 0;
 }
